@@ -1,3 +1,8 @@
+/*
+ * Este é o arquivo é uma cópia editada por mim, Lucas Barcelos, retirada do projeto.. @pixi/tilemap.. onde 
+ * estava em TypeScript e eu fiz o desfavor de passa-la para JavaScript puro.. só que ainda cheio de erros..
+ */
+
 var TILEJS;
 
 (function(a){
